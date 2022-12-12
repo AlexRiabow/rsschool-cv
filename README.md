@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kukanium.github.io/rsschool-cv/cv
