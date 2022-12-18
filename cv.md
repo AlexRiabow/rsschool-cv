@@ -1,5 +1,5 @@
 # Aleksandr Riabov
-![My photo](/rsschool-cv/MyPhoto.jpg)
+![My photo](/MyPhoto.jpg)
 ## Junior Frontend Developer 
 ### Contacts:
 * __Telegram__: @Kukanium
@@ -14,7 +14,8 @@ I am 22 years old, recently gratuated bachelor from PSUTI, Samara, Russia. Did l
 * __CSS__ (Bootstrap, SASS/SCSS)
 * __Git__
 ### Code Examples:
-```return (
+```
+    return (
                 <div className='List'>
                     <input className="CompetitionInput" type="text" placeholder="Найти соревнование..." onChange ={ Event => {this.setState({searchTerm: (Event.target.value)});}}/> 
                     <Link to={`/?q=${searchTerm}`} >
@@ -45,11 +46,13 @@ I am 22 years old, recently gratuated bachelor from PSUTI, Samara, Russia. Did l
                         ))}
                     </div>
                 </div>
-            );
+    );
 ```
 ### Education:
-* __Povolzhskyi State University of Telecommunications and Informatik__ * Informatics and computer engineering
-* __Simbir Soft__ * Front-end development Intensive course
+* __Povolzhskyi State University of Telecommunications and Informatics__ 
+    * Informatics and computer engineering
+* __Simbir Soft__ 
+    * Front-end development Intensive course
 ### Languages:
 * __Russian__ - native speaker
 * __English__ - B1
